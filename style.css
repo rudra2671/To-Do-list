@@ -1,0 +1,56 @@
+body{
+  text-align: center; 
+  background-image: url(Assets/pexels-stephan-seeber-1668246.jpg);
+  background-repeat: no-repeat; 
+  background-size: cover;
+} 
+
+ul{   
+  /* overflow: auto; */
+  box-shadow: 0 0 50px 15px #48abe0;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 30px; 
+  color: black; 
+  /* border: 4px solid rgb(0, 200, 255);   */
+  border-radius: 10px;
+  /* background-color: red;  */ 
+  backdrop-filter: blur(50px);
+  opacity: 0.8;
+  height: 500px;  
+  width: 500px; 
+  margin-left: 500px;
+  
+  
+  
+  
+} 
+
+h1 {
+  text-shadow: 0 0 0.2em blue;
+   color: rgb(0, 200, 255); 
+   font-size: 50px;  
+   font-family: 'Edu TAS Beginner', cursive;
+
+} 
+
+input{ 
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 30px; 
+  border: 2px solid rgb(0, 200, 255);
+  border-radius: 6px;
+} 
+
+
+button{ 
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 20px;
+  opacity: 0.5px;
+  border-radius: 6px; 
+  margin: 5px;
+} 
+
+button:hover{
+  opacity: 1; 
+  background-color: rgb(103, 218, 218);
+  /* border: 4px solid rgb(0, 200, 255);  */
+}
